@@ -1,0 +1,1 @@
+print("Este es un segundo ejemplo de un archivo Python.")
